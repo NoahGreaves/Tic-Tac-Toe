@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|solutionrelative:Tic-Tac-Toe\\Tic-Tac-Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|solutionrelative:Tic-Tac-Toe\\GameBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|solutionrelative:Tic-Tac-Toe\\GameController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|solutionrelative:Tic-Tac-Toe\\GameController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{789B3209-40CE-4225-B2E9-A00C5848C354}|Tic-Tac-Toe\\Tic-Tac-Toe.vcxproj|solutionrelative:Tic-Tac-Toe\\Tic-Tac-Toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameBoard.cpp",
               "DocumentMoniker": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameBoard.cpp",
               "RelativeDocumentMoniker": "Tic-Tac-Toe\\GameBoard.cpp",
               "ToolTip": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameBoard.cpp",
               "RelativeToolTip": "Tic-Tac-Toe\\GameBoard.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-06T05:58:13.193Z",
               "EditorCaption": ""
@@ -48,38 +44,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameController.h",
-              "DocumentMoniker": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameController.h",
-              "RelativeDocumentMoniker": "Tic-Tac-Toe\\GameController.h",
-              "ToolTip": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameController.h",
-              "RelativeToolTip": "Tic-Tac-Toe\\GameController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-06T05:36:00.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GameController.cpp",
               "DocumentMoniker": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameController.cpp",
               "RelativeDocumentMoniker": "Tic-Tac-Toe\\GameController.cpp",
               "ToolTip": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\GameController.cpp",
               "RelativeToolTip": "Tic-Tac-Toe\\GameController.cpp",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAWwDgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-06T05:36:02.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Tic-Tac-Toe.cpp",
               "DocumentMoniker": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.cpp",
               "RelativeDocumentMoniker": "Tic-Tac-Toe\\Tic-Tac-Toe.cpp",
               "ToolTip": "C:\\Users\\noahg\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe\\Tic-Tac-Toe.cpp",
               "RelativeToolTip": "Tic-Tac-Toe\\Tic-Tac-Toe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-06T04:15:18.49Z",
               "EditorCaption": ""

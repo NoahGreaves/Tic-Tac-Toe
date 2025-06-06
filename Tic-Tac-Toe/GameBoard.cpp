@@ -72,7 +72,7 @@ bool GameBoard::checkWin(char symbol) const
 
 bool GameBoard::isFull() const
 {
-	return _filledCells == 9;
+	return _filledCells == BOARD_SIZE * BOARD_SIZE;
 }
 
 int GameBoard::getFilledCellsCount() const

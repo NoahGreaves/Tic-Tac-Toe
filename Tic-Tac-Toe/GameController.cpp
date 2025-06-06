@@ -33,7 +33,7 @@ void GameController::play()
 			cout << currentPlayer.getName() << " (" << currentPlayer.getSymbol() << "), enter row (1-3) and column (1-3), e.g 1 3: ";
 			cin >> row >> col;
 
-			// Input Validation
+			// Input Validation that ensures the input is an int
 			if (std::cin.fail()) {
 				std::cin.clear(); // Clear the error flag
 				std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Ignore the rest of the line
